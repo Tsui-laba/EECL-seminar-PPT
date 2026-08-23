@@ -1,0 +1,7 @@
+interface:
+  display_name: "EECL-seminar"
+  short_description: "Build Chinese paper decks one figure panel at a time"
+  default_prompt: "Use $eecl-seminar to turn this paper into a Chinese deck with a three-slide introduction, experiment flowchart, one slide per figure panel, and a concise conclusion."
+
+policy:
+  allow_implicit_invocation: true
